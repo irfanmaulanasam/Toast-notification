@@ -1,4 +1,8 @@
-# component-app
+# Toast-Notification
+
+## introduction
+
+based on how to make a comfortable **User Interface**, i start this project from alert/toast/notification and modal to inform user what is happen when execute the command, or any other use of it.
 
 ## Project setup
 ```
@@ -27,4 +31,3 @@ yarn run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
-# component-app
